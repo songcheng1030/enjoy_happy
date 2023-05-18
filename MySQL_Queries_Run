@@ -1,0 +1,3 @@
+ALTER TABLE `newsfeedcommentlikes` ADD `face_icon` VARCHAR(45) NULL DEFAULT NULL AFTER `status`;
+
+
